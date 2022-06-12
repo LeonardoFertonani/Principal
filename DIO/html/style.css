@@ -1,0 +1,65 @@
+body{
+    background: #ccc;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    width: 300px;
+    margin: auto;
+}
+
+#title, .subtitle, .post_title{
+    color: blue;
+}
+
+.post_title{
+    font-size: 16px;
+    font-style: italic;
+    margin: 0;
+    margin-bottom: 15px;
+}
+
+.post{
+    background: #fff;
+    padding: 10px;
+    border: 3px solid black;
+    margin-bottom: 15px;
+    background-color: yellow;
+}
+
+.post_content{
+    margin: 0;
+    margin-bottom: 15px;
+}
+
+#circulo_teste{
+    color: black;
+    background: black;
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+}
+a{
+    text-decoration: none;
+    color: blue;
+}
+.post_image{
+    width: 100%;
+}
+ul{
+    list-style-type: none;
+    padding: 0;
+}
+
+ul li a{
+    text-decoration: none;
+}
+/*
+
+padding: 10px(topo) 5px(direita) 8px(baixo) 4px(esquerda);
+padding: 10px(vertical) 5px(horizontal);
+
+border: 3px solid blue;
+border-top: 2px dotted green;
+border-right: 4px dashed pink;
+
+border-radius: 10px;
+
+*/
