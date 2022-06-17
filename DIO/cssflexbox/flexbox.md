@@ -58,3 +58,6 @@ OBS: não irá funcinar caso tenhamos adicionado justify-content ao nosso flex c
 + flex-basis: auto; (caso o item não tenha tamanho, este será proporcional ao conteúdo do item.)
 + flex-basis: px, %; (são valores exatos previamente definidos)
 + flex-basis: 0; (terá relação com a definição do flex-grow)
+
+# Flex-shrink
+É a propriedade que estabelecer a capacidade de redução ou compressão do tamanho de um item.
