@@ -1,0 +1,1 @@
+*assíncrono = 'que não ocorre ou que não se efetiva ao mesmo tempo'*
